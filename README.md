@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Привет, я Владислав Трубачёв
+# 👋 Привет, я Владислав Трубачев
 
 ### `🔧 C++ Developer` | `⚙️ Low-level & Systems Programming`
 
